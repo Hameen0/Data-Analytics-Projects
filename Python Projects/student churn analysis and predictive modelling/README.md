@@ -1,1 +1,1 @@
-
+The files are python notebooks showing the steps followed to preprocess dataset (cleaning, feature engineering and selection, train-test-split) and predictive models created ( with model validation, optimization and visualizations)
